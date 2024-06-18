@@ -24,7 +24,7 @@ var style_SELschools2024SOSonly_60 = function(feature, resolution){
         image: new ol.style.Icon({
                   imgSize: [583.33331, 570],
                   scale: 0.05142857348571437,
-                  anchor: [300, 300],
+                  anchor: [500, 500],
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
