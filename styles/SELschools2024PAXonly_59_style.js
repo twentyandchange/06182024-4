@@ -24,7 +24,7 @@ var style_SELschools2024PAXonly_59 = function(feature, resolution){
         image: new ol.style.Icon({
                   imgSize: [354.66666, 160],
                   scale: 0.160714288735231,
-                  anchor: [28, 28],
+                  anchor: [500, -500],
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
